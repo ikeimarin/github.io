@@ -64,7 +64,7 @@ img{
     background-position: center top;
  }
 #news {
-    background-image: url(images/news-bg.jpg);
+    background-image: url(https://github.com/ikeimarin/github.io/blob/main/news-bg.jpg?raw=true);
     height: 270px;
     margin-bottom: 40px;
     background-size: cover;
